@@ -1,5 +1,8 @@
 ##  React Project structure  with parcel, eslint prettier
 
+This is a POC with the parcel with react and eslint and prettier.
+
+
 ##  How to run dev server::
 
 npm run dev
