@@ -5,3 +5,6 @@ dist/
 .DS_Store
 coverage/
 .vscode/
+
+node_modules/
+package-lock.json
